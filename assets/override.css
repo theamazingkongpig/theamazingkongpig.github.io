@@ -1,0 +1,23 @@
+p {
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.6;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.fluid {
+    max-width: 100%;
+}
+
+.mobile-fluid {
+    margin: 21px auto;
+    display: block;
+    max-width: 100%;
+    width: 400px;
+}
